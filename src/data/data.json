@@ -1,0 +1,182 @@
+{
+  "products":[
+    {
+      "id": "1",
+      "name": "Syltherine",
+      "shortdescription": "Stylish cafe chair",
+      "description": "A modern and stylish cafe chair crafted with premium materials, perfect for enhancing your dining or cafe space with elegance and comfort while ensuring durability and timeless design.",
+      "price": "Rp 2.500.000",
+      "originalPrice": "Rp 3.500.000",
+      "discount": "-30%",
+      "category": "Furniture",
+      "tags": ["Modern", "Stylish", "Durable"],
+      "imgSrc": "/products/image 1.png"
+    },
+    {
+      "id": "2",
+      "name": "Leviosa",
+      "shortdescription": "Stylish cafe chair",
+      "description": "Leviosa adds a contemporary touch to any room. Its ergonomic design and superior materials deliver exceptional comfort and style for cafes, dining spaces, or cozy home interiors.",
+      "price": "Rp 2.500.000",
+      "category": "Furniture",
+      "tags": ["Ergonomic", "Contemporary", "Versatile"],
+      "imgSrc": "/products/image 2.png"
+    },
+    {
+      "id": "3",
+      "name": "Lolito",
+      "shortdescription": "Luxury big sofa",
+      "description": "Lolito luxury sofa combines comfort and sophistication. With ample seating space, soft cushions, and a chic design, it's the ideal statement piece for modern living rooms.",
+      "price": "Rp 7.000.000",
+      "originalPrice": "Rp 14.000.000",
+      "discount": "-50%",
+      "category": "Living Room",
+      "tags": ["Luxury", "Spacious", "Comfortable"],
+      "imgSrc": "/products/image 3.png"
+    },
+    {
+      "id": "4",
+      "name": "Respira",
+      "shortdescription": "Outdoor bar table and stool",
+      "description": "Respira outdoor bar set features a compact and durable design. It's weather-resistant, stylish, and ideal for relaxing moments on your patio, balcony, or garden spaces.",
+      "price": "Rp 500.000",
+      "badge": "New",
+      "category": "Outdoor",
+      "tags": ["Compact", "Weather-Resistant", "Stylish"],
+      "imgSrc": "/products/image 4.png"
+    },
+    {
+      "id": "5",
+      "name": "Syltherine",
+      "shortdescription": "Stylish cafe chair",
+      "description": "A modern and stylish cafe chair crafted with premium materials, perfect for enhancing your dining or cafe space with elegance and comfort while ensuring durability and timeless design.",
+      "price": "Rp 2.500.000",
+      "originalPrice": "Rp 3.500.000",
+      "discount": "-30%",
+      "category": "Furniture",
+      "tags": ["Modern", "Stylish", "Durable"],
+      "imgSrc": "/products/image 1.png"
+    },
+    {
+      "id": "6",
+      "name": "Leviosa",
+      "shortdescription": "Stylish cafe chair",
+      "description": "Leviosa adds a contemporary touch to any room. Its ergonomic design and superior materials deliver exceptional comfort and style for cafes, dining spaces, or cozy home interiors.",
+      "price": "Rp 2.500.000",
+      "category": "Furniture",
+      "tags": ["Ergonomic", "Contemporary", "Versatile"],
+      "imgSrc": "/products/image 2.png"
+    },
+    {
+      "id": "7",
+      "name": "Lolito",
+      "shortdescription": "Luxury big sofa",
+      "description": "Lolito luxury sofa combines comfort and sophistication. With ample seating space, soft cushions, and a chic design, it's the ideal statement piece for modern living rooms.",
+      "price": "Rp 7.000.000",
+      "originalPrice": "Rp 14.000.000",
+      "discount": "-50%",
+      "category": "Living Room",
+      "tags": ["Luxury", "Spacious", "Comfortable"],
+      "imgSrc": "/products/image 3.png"
+    },
+    {
+      "id": "8",
+      "name": "Respira",
+      "shortdescription": "Outdoor bar table and stool",
+      "description": "Respira outdoor bar set features a compact and durable design. It's weather-resistant, stylish, and ideal for relaxing moments on your patio, balcony, or garden spaces.",
+      "price": "Rp 500.000",
+      "badge": "New",
+      "category": "Outdoor",
+      "tags": ["Compact", "Weather-Resistant", "Stylish"],
+      "imgSrc": "/products/image 4.png"
+    },  {
+      "id": "9",
+      "name": "Syltherine",
+      "shortdescription": "Stylish cafe chair",
+      "description": "A modern and stylish cafe chair crafted with premium materials, perfect for enhancing your dining or cafe space with elegance and comfort while ensuring durability and timeless design.",
+      "price": "Rp 2.500.000",
+      "originalPrice": "Rp 3.500.000",
+      "discount": "-30%",
+      "category": "Furniture",
+      "tags": ["Modern", "Stylish", "Durable"],
+      "imgSrc": "/products/image 1.png"
+    },
+    {
+      "id": "10",
+      "name": "Leviosa",
+      "shortdescription": "Stylish cafe chair",
+      "description": "Leviosa adds a contemporary touch to any room. Its ergonomic design and superior materials deliver exceptional comfort and style for cafes, dining spaces, or cozy home interiors.",
+      "price": "Rp 2.500.000",
+      "category": "Furniture",
+      "tags": ["Ergonomic", "Contemporary", "Versatile"],
+      "imgSrc": "/products/image 2.png"
+    },
+    {
+      "id": "11",
+      "name": "Lolito",
+      "shortdescription": "Luxury big sofa",
+      "description": "Lolito luxury sofa combines comfort and sophistication. With ample seating space, soft cushions, and a chic design, it's the ideal statement piece for modern living rooms.",
+      "price": "Rp 7.000.000",
+      "originalPrice": "Rp 14.000.000",
+      "discount": "-50%",
+      "category": "Living Room",
+      "tags": ["Luxury", "Spacious", "Comfortable"],
+      "imgSrc": "/products/image 3.png"
+    },
+    {
+      "id": "12",
+      "name": "Respira",
+      "shortdescription": "Outdoor bar table and stool",
+      "description": "Respira outdoor bar set features a compact and durable design. It's weather-resistant, stylish, and ideal for relaxing moments on your patio, balcony, or garden spaces.",
+      "price": "Rp 500.000",
+      "badge": "New",
+      "category": "Outdoor",
+      "tags": ["Compact", "Weather-Resistant", "Stylish"],
+      "imgSrc": "/products/image 4.png"
+    },  {
+      "id": "13",
+      "name": "Syltherine",
+      "shortdescription": "Stylish cafe chair",
+      "description": "A modern and stylish cafe chair crafted with premium materials, perfect for enhancing your dining or cafe space with elegance and comfort while ensuring durability and timeless design.",
+      "price": "Rp 2.500.000",
+      "originalPrice": "Rp 3.500.000",
+      "discount": "-30%",
+      "category": "Furniture",
+      "tags": ["Modern", "Stylish", "Durable"],
+      "imgSrc": "/products/image 1.png"
+    },
+    {
+      "id": "14",
+      "name": "Leviosa",
+      "shortdescription": "Stylish cafe chair",
+      "description": "Leviosa adds a contemporary touch to any room. Its ergonomic design and superior materials deliver exceptional comfort and style for cafes, dining spaces, or cozy home interiors.",
+      "price": "Rp 2.500.000",
+      "category": "Furniture",
+      "tags": ["Ergonomic", "Contemporary", "Versatile"],
+      "imgSrc": "/products/image 2.png"
+    },
+    {
+      "id": "15",
+      "name": "Lolito",
+      "shortdescription": "Luxury big sofa",
+      "description": "Lolito luxury sofa combines comfort and sophistication. With ample seating space, soft cushions, and a chic design, it's the ideal statement piece for modern living rooms.",
+      "price": "Rp 7.000.000",
+      "originalPrice": "Rp 14.000.000",
+      "discount": "-50%",
+      "category": "Living Room",
+      "tags": ["Luxury", "Spacious", "Comfortable"],
+      "imgSrc": "/products/image 3.png"
+    },
+    {
+      "id": "16",
+      "name": "Respira",
+      "shortdescription": "Outdoor bar table and stool",
+      "description": "Respira outdoor bar set features a compact and durable design. It's weather-resistant, stylish, and ideal for relaxing moments on your patio, balcony, or garden spaces.",
+      "price": "Rp 500.000",
+      "badge": "New",
+      "category": "Outdoor",
+      "tags": ["Compact", "Weather-Resistant", "Stylish"],
+      "imgSrc": "/products/image 4.png"
+    }
+  ]
+}
