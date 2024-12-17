@@ -3,8 +3,8 @@ import { Button } from "../ui/button";
 
 const RoomInspiration = () => {
   return (
-    
-    <section className="max-w-7xl mx-auto w-full flex justify-between items-center py-12 bg-[#FCF8F3]">
+    <div className="bg-[#FCF8F3]">
+    <section className="max-w-7xl mx-auto w-full flex justify-between items-center py-12 ">
       {/* Left Content */}
       <div className="w-full md:w-1/2 px-8 md:pl-20">
         <h2 className="text-4xl font-bold text-gray-800 mb-4">
@@ -61,6 +61,7 @@ const RoomInspiration = () => {
         </div>
       </div>
     </section>
+    </div>
   );
 };
 
