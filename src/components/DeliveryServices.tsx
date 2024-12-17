@@ -1,5 +1,5 @@
 import React from 'react';
-import { Trophy, ShieldCheck, Truck, Clock, Headphones,  } from 'lucide-react';
+import { Trophy, ShieldCheck, Truck,  Headphones } from 'lucide-react';
 
 interface Feature {
   icon: React.ReactNode;

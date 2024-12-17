@@ -2,7 +2,6 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { X, Menu } from 'lucide-react';
-import { usePathname } from 'next/navigation';
 import Container from './Container';
 import Image from 'next/image';
 
